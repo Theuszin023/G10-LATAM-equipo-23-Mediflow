@@ -8,3 +8,5 @@ google-genai
 oci
 httpx
 pytest
+pymupdf
+python-dotenv
