@@ -3,3 +3,5 @@ __pycache__/
 .env
 *.pem
 .oci/
+storage_local/
+.pytest_cache/
